@@ -1,0 +1,14 @@
+{
+    "env": "development",
+    "dbConfig": {
+        "connectionLimit": 1,
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "CRUDBoilerPlate"
+    },
+    "cors": {
+        "origin": true,
+        "credentials": true
+    }
+}
